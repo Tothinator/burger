@@ -1,0 +1,9 @@
+ul {
+    list-style: none;
+}
+
+.list-wrapper {
+    width: 80%;
+    text-align: left;
+    display: inline-block;
+}
